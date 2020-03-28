@@ -33,19 +33,11 @@ Guide to configure 64 bits Assembly environment in VS2019
 
 <img src="/images/x64.PNG" />
 
-## 9.Add *Existing Item*
-
-<img src="/images/addExistingItem.PNG" width="442" height="313" />
-
-## 10.Add *Irvine64* Library
-
-<img src="/images/irvine64.PNG" width="428" height="270" />
-
-## 11.Add "Source.asm"
+## 9.Add "Source.asm"
 
 <img src="/images/Add_asm.PNG" />
 
-## 12.Code Template
+## 10.Code Template
 
 <img src="/images/Code_Template.PNG" />
 
@@ -62,6 +54,15 @@ main proc
 main endp
 end
 ```
+
+## 11.Add *Existing Item*
+
+<img src="/images/addExistingItem.PNG" width="442" height="313" />
+
+## 12.Add *Irvine64* Library
+
+<img src="/images/irvine64.PNG" width="428" height="270" />
+
 
 ## 13.*LARGEADDRESSAWARE* Error
 
