@@ -33,11 +33,19 @@ Guide to configure 64 bits Assembly environment in VS2019
 
 <img src="/images/x64.PNG" />
 
-## 9.Add "Source.asm"
+## 9.Add *Existing Item*
+
+<img src="/images/addExistingItem.PNG" width="442" height="313" />
+
+## 10.Add *Irvine64* Library
+
+<img src="/images/irvine64.PNG" width="428" height="270" />
+
+## 11.Add "Source.asm"
 
 <img src="/images/Add_asm.PNG" />
 
-## 10.Code Template
+## 12.Code Template
 
 <img src="/images/Code_Template.PNG" />
 
@@ -54,3 +62,15 @@ main proc
 main endp
 end
 ```
+
+## 13.*LARGEADDRESSAWARE* Error
+
+<img src="/images/error.PNG" width="435" height="53.5" />
+
+## 14.Open properties
+
+<img src="/images/projectProperties.PNG" width="454" height="586" />
+
+## 15.set *Enable Large Addresses* to *NO*
+
+<img src="/images/eLA_NO.PNG" width="491.5" height="322" />
