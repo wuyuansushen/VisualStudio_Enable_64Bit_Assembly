@@ -29,11 +29,11 @@ Guide to configure 64 bits Assembly environment in VS2019
 
 <img src="/images/Advanced.PNG" width="492.5" height="342" />
 
-Tips: If you use *Template* to new a 64bits Assembly Language Project, Debugger usually is *x86* rather than *x64*, Please adjust it to *x64* to avoid errors.
-
 ## 8.Set "x64" Debug
 
 <img src="/images/x64.PNG" />
+
+Tips: If you use *Template* to new a 64bits Assembly Language Project, Debugger usually is *x86* rather than *x64*, Please adjust it to *x64* to avoid errors.
 
 ## 9.Add "Source.asm"
 
