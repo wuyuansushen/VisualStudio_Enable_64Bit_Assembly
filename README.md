@@ -1,4 +1,5 @@
-# VS2019_Assembly_64Bits
+# VisualStudio_Enable_64Bit_Assembly
+
 Guide to configure 64 bits Assembly environment in VS2019
 
 ## 1.Create "C++ Empty Project"
